@@ -1,5 +1,5 @@
 # PianoAutomata
-Course work for Intelligent Hardware and System Development, Jun 2023. For more details about this work, visit at https://yukizhuyue.com/the-dawns-here-are-quiet/.
+Course work for Intelligent Hardware and System Development, Jun 2023.
 
 
 ![Project Cover Image](cover/cover.jpg)
